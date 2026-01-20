@@ -102,7 +102,7 @@ After method call: 10
 ---
 
 ## 👨‍💻 Author
-**Sai Tharun M**  
+**Ravi kumar**  
 B.Tech – Computer Science and Engineering  
 Presidency University, Bengaluru  
 
@@ -117,3 +117,4 @@ Presidency University, Bengaluru
 
 ## 📜 License
 This project is created for **educational and internship purposes**.
+
